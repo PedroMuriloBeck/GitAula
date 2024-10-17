@@ -1,0 +1,3 @@
+def funcaoBagual():
+    ...
+print("Ola mundo")
